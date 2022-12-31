@@ -3,7 +3,7 @@ lockfileVersion: 5.4
 specifiers:
   '@commitlint/cli': 17.3.0
   '@commitlint/config-conventional': 17.3.0
-  '@types/jest': 29.2.4
+  '@types/jest': 29.2.5
   '@typescript-eslint/eslint-plugin': 5.31.0
   '@typescript-eslint/parser': 5.31.0
   eslint: 8.26.0
@@ -18,7 +18,7 @@ specifiers:
 devDependencies:
   '@commitlint/cli': 17.3.0
   '@commitlint/config-conventional': 17.3.0
-  '@types/jest': 29.2.4
+  '@types/jest': 29.2.5
   '@typescript-eslint/eslint-plugin': 5.31.0_773yw2dhinypo6tt7gmzqmt6n4
   '@typescript-eslint/parser': 5.31.0_wyqvi574yv7oiwfeinomdzmc3m
   eslint: 8.26.0
@@ -961,8 +961,8 @@ packages:
       '@types/istanbul-lib-report': 3.0.0
     dev: true
 
-  /@types/jest/29.2.4:
-    resolution: {integrity: sha512-PipFB04k2qTRPePduVLTRiPzQfvMeLwUN3Z21hsAKaB/W9IIzgB2pizCL466ftJlcyZqnHoC9ZHpxLGl3fS86A==}
+  /@types/jest/29.2.5:
+    resolution: {integrity: sha512-H2cSxkKgVmqNHXP7TC2L/WUorrZu8ZigyRywfVzv6EyBlxj39n4C00hjXYQWsbwqgElaj/CiAeSRmk5GoaKTgw==}
     dependencies:
       expect: 29.3.1
       pretty-format: 29.3.1
