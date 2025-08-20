@@ -29,3 +29,7 @@ if (errorObj.isError) {
     console.log(errorObj.value); // This cannot happen
 }
 ```
+
+## Licenses
+
+MIT or CC0-1.0
